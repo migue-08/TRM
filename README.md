@@ -1,2 +1,2 @@
 ## TRM
-In this repository you can see the documents required to reproduce this [notebook](https://nbviewer.org/github/migue-08/TRM/blob/main/TRM.ipynb). The project consist of analyzing data in order to visualize the latest exchange rate $\frac{COP}{USD}$
+In this repository you can see the documents required to reproduce this [notebook](https://nbviewer.org/github/migue-08/TRM/blob/main/TRM.ipynb). The project consists of analyzing data in order to visualize the latest $\frac{COP}{USD}$ exchange rate.
